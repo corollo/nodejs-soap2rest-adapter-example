@@ -4,5 +4,7 @@
 npm install
 node index.js
 
+Note: wsdl config: http://www.dneonline.com/calculator.asmx?WSDL
+
 
 
